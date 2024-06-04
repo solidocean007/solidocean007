@@ -27,6 +27,6 @@
 ## 📫 How to Reach Me
 
 - Email: [your-email@example.com](mailto:clintonwilliams007.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/clinton-williams-webdev/)
+- LinkedIn: [LinkedIn/in/clinton-williams-webdev/](https://www.linkedin.com/in/clinton-williams-webdev/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 

@@ -11,7 +11,7 @@
 ## 🚀 Languages and Tools:
 
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
@@ -26,7 +26,7 @@
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- Email: [your-email@example.com](mailto:clintonwilliams007.com)
+- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/clinton-williams-webdev/))
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 

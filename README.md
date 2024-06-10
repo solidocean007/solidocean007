@@ -22,8 +22,6 @@
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
 ## 📫 How to Reach Me
 
 - Email: [your-email@example.com](mailto:clintonwilliams007.com)

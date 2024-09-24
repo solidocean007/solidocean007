@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Displaygram.com
 - 🌱 I’m currently learning next.js
 - 💬 Ask me about [https://Displaygram.com](https://displaygram.com/)
-- 📫 How to reach me: clintonwilliams007@gmailc.om
+- 📫 How to reach me: clintonwilliams007@gmail.com
 - ⚡ Fun fact: I'm a mediocre guitar player.
 
 ## 🚀 Languages and Tools:
